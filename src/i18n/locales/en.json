@@ -1,0 +1,466 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "programs": "Programs",
+    "offers": "Offers",
+    "transformations": "Success Stories",
+    "pricing": "Pricing", 
+    "contact": "Contact",
+    "joinNow": "Join Now"
+  },
+  "hero": {
+    "badge": "Start Your Journey Today",
+    "title": "Start Your Journey to Your",
+    "titleHighlight": "Dream Physique",
+    "description": "Transform your body with personalized training, nutrition guidance, and expert coaching from Classic Gym",
+    "watchStory": "Watch Story",
+    "stats": {
+      "clients": "Happy Clients",
+      "experience": "Years Experience",
+      "success": "Success Rate"
+    }
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "The Classic Gym",
+    "titleHighlight": "Method",
+    "description": "At Classic Gym, we believe that everyone has the potential to achieve their dream physique. Our philosophy is built on scientific principles combined with personalized approaches tailored to your unique goals.",
+    "coach": "Coach Mohamed Walid Al-Sewali",
+    "coachTitle": "Certified Bodybuilding & Nutrition Expert",
+
+    "method": {
+      "title": "Our Training Method",
+      "step1": {
+        "title": "Assessment & Goal Setting",
+        "description": "We start by understanding your current fitness level, lifestyle, and goals to create a foundation for your success."
+      },
+      "step2": {
+        "title": "Customized Plan Design",
+        "description": "Your personalized training and nutrition plan is developed based on scientific principles and your individual needs."
+      },
+      "step3": {
+        "title": "Guided Implementation",
+        "description": "With constant guidance from your coach, you’ll train efficiently, safely, and with purpose every step of the way."
+      },
+      "step4": {
+        "title": "Progress Tracking & Adjustment",
+        "description": "We regularly monitor your progress and adjust your plan to ensure consistent improvement and lasting results."
+      }
+    },
+
+    "values": {
+      "title": "Our Core Values",
+      "science": {
+        "title": "Science-Based",
+        "description": "Every training and nutrition plan is built on proven scientific research."
+      },
+      "personalized": {
+        "title": "Personalized Approach",
+        "description": "No one-size-fits-all solutions – every plan is customized to your body and lifestyle."
+      },
+      "support": {
+        "title": "Ongoing Support",
+        "description": "Daily check-ins and regular adjustments to ensure your continuous progress."
+      },
+      "results": {
+        "title": "Proven Results",
+        "description": "Track record of successful transformations and achieved goals."
+      },
+      "excellence": {
+        "title": "Commitment to Excellence",
+        "description": "We constantly strive for the highest standards in every workout, meal plan, and transformation journey."
+      },
+      "goalOriented": {
+        "title": "Goal-Oriented Mindset",
+        "description": "Every decision we make is focused on helping you reach your goals faster and smarter."
+      },
+      "passionate": {
+        "title": "Driven by Passion",
+        "description": "We love what we do and bring that passion into every session with our members."
+      },
+      "energetic": {
+        "title": "Positive Energy",
+        "description": "Our gym atmosphere is filled with motivation, teamwork, and high energy that keeps you going."
+      }
+    },
+
+    "achievements": {
+      "transformations": "Over 1,200 successful body transformations achieved by our clients.",
+      "experience": "More than 10 years of professional experience in fitness and nutrition coaching.",
+      "satisfaction": "98% client satisfaction rate through consistent support and visible progress.",
+      "support": "A dedicated team available 24/7 to guide you throughout your fitness journey."
+    }
+  }
+
+,
+  "programs": {
+    "badge": "Training Programs",
+    "title": "Specialized",
+    "titleHighlight": "Programs",
+    "description": "Choose from our scientifically-designed programs tailored to your specific goals. Each program includes personalized workouts, nutrition plans, and ongoing support.",
+    "learnMore": "Learn More",
+    "items": {
+      "fatLoss": {
+        "title": "Fat Loss Program",
+        "description": "Shred fat while maintaining muscle mass with scientifically designed workouts and meal plans",
+        "features": [
+          "High-intensity training",
+          "Customized cardio",
+          "Fat-burning nutrition",
+          "Weekly progress tracking"
+        ]
+      },
+      "muscle": {
+        "title": "Muscle Building",
+        "description": "Build lean muscle mass and strength with progressive overload and optimal nutrition strategies",
+        "features": [
+          "Hypertrophy training",
+          "Strength protocols",
+          "Muscle-building diet",
+          "Form correction"
+        ]
+      },
+      "recomp": {
+        "title": "Body Recomposition",
+        "description": "Simultaneously build muscle and lose fat with advanced training techniques and meal timing",
+        "features": [
+          "Combined protocols",
+          "Macro cycling",
+          "Body analysis",
+          "Lifestyle coaching"
+        ]
+      },
+      "athletic": {
+        "title": "Athletic Performance",
+        "description": "Enhance athletic performance, power, and conditioning for sports and competitions",
+        "features": [
+          "Power training",
+          "Speed & agility",
+          "Sport-specific work",
+          "Recovery protocols"
+        ]
+      },
+      "cupping": {
+        "title": "Cupping Therapy",
+        "description": "Traditional effective treatment for relaxation, improved circulation, and pain relief",
+        "features": [
+          "Improved circulation",
+          "Muscle pain relief",
+          "Detoxification",
+          "Faster recovery"
+        ]
+      },
+      "massage": {
+        "title": "Massage Sessions",
+        "description": "Professional therapeutic massage for muscle relaxation and post-workout recovery",
+        "features": [
+          "Muscle relaxation",
+          "Stress reduction",
+          "Improved flexibility",
+          "Better recovery"
+        ]
+      },
+      "recovery": {
+        "title": "Recovery Sessions",
+        "description": "Specialized lactic acid bath to speed up recovery and reduce muscle soreness",
+        "features": [
+          "Lactic acid removal",
+          "Reduced muscle pain",
+          "Faster recovery",
+          "Improved performance"
+        ]
+      }
+    }
+  },
+  "offers": {
+    "badge": "Opening Offers",
+    "title": "Classic Gym",
+    "titleHighlight": "Offers",
+    "description": "Take advantage of our special opening month offers - prices you can't miss!",
+    "bookNow": "Book Now",
+    "management": "Management: Coach Mohamed Walid Al-Sewali",
+    "supervisor": "Supervisor: Dr. Karim Mohamed Hazza",
+    "month": {
+      "title": "Subscription Offers",
+      "daily": "Daily: 10 sessions for 15 EGP",
+      "weekly": "Weekly: 65 EGP instead of 80 EGP",
+      "monthly": "Monthly: 250 EGP instead of 300 EGP",
+      "treadmill": "Treadmill & Vibrator: 10 EGP",
+      "weightLossMonth": "One-Month Weight Loss Program: 400 EGP instead of 450 EGP",
+      "weightLossWeek": "One-Week Weight Loss Program: 100 EGP instead of 110 EGP",
+      "weightLossDay": "One-Day Weight Loss: 20 EGP",
+      "private": "Private Training: 850 EGP instead of 1000 EGP",
+      "nutrition": "Nutrition Plan + Follow-up: 250 EGP instead of 400 EGP",
+      "friends": "3-Friends Offer (1-Month Subscription): 700 EGP"
+    },
+    "therapy": {
+      "title": "Therapy & Recovery Sessions",
+      "cupping": "Cupping: 250 EGP",
+      "massage": "Massage: 80 EGP",
+      "recovery": "Recovery Session (Lactic Acid Bath): 120 EGP"
+    },
+    "combo": {
+      "title": "Special Combo Offers",
+      "cuppingMassage": "3 Sessions (Cupping + Massage): 800 EGP",
+      "recoverySessions": "3 Recovery Sessions: 300 EGP",
+      "massageSessions": "3 Massage Sessions: 200 EGP"
+    }
+  },
+  "features": {
+    "badge": "Why Choose Classic Gym",
+    "title": "What Makes Our",
+    "titleHighlight": "Training Special",
+    "description": "Discover the unique features that make our programs effective and tailored to achieve your fitness goals",
+    "items": {
+      "customPlans": {
+        "title": "Custom Training Plans",
+        "description": "Programs designed specifically for your fitness level, goals, and lifestyle"
+      },
+      "nutrition": {
+        "title": "Nutrition Guidance",
+        "description": "Detailed meal plans and supplement recommendations based on your needs"
+      },
+      "tracking": {
+        "title": "Progress Tracking",
+        "description": "Regular check-ins and adjustments to ensure you reach your goals"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Continuous support via WhatsApp for all your questions and concerns"
+      },
+      "flexible": {
+        "title": "Flexible Schedules",
+        "description": "Training plans that fit your busy schedule and lifestyle"
+      },
+      "proven": {
+        "title": "Proven Results",
+        "description": "Track record of successful transformations across all fitness levels"
+      },
+      "community": {
+        "title": "Supportive Community",
+        "description": "Join a community of like-minded individuals on their fitness journey"
+      },
+      "expertise": {
+        "title": "Expert Coaching",
+        "description": "Years of experience in bodybuilding and competition preparation"
+      }
+    }
+  },
+  "testimonials": {
+    "badge": "Success Stories",
+    "title": "Real",
+    "titleHighlight": "Transformations",
+    "description": "See the incredible transformations of our clients who achieved their goals with Classic Gym.",
+
+    "before": "Before",
+    "after": "After",
+
+    "items": {
+      "client1": {
+        "name": "Ahmed Ali",
+        "age": "29 years old",
+        "quote": "Classic Gym completely changed my life! I lost 15 kg and regained my confidence.",
+        "before": "95 kg",
+        "after": "80 kg",
+        "result": "Lost 15 kg"
+      },
+      "client2": {
+        "name": "Mahmoud Khaled",
+        "age": "35 years old",
+        "quote": "Joining Classic Gym was the best decision I’ve ever made. The change is truly real!",
+        "before": "120 kg",
+        "after": "90 kg",
+        "result": "Lost 30 kg"
+      }
+    },
+
+    "stats": {
+      "stat1": {
+        "value": "500+",
+        "label": "Successful Transformations"
+      },
+      "stat2": {
+        "value": "98%",
+        "label": "Client Satisfaction"
+      },
+      "stat3": {
+        "value": "1000+",
+        "label": "Goals Achieved"
+      },
+      "stat4": {
+        "value": "10+",
+        "label": "Years of Experience"
+      }
+    }
+  },
+  "pricing": {
+    "badge": "Choose Your Transformation",
+    "title": "Pricing",
+    "titleHighlight": "Plans",
+    "description": "Choose the plan that fits your goals and start your journey to your dream physique today",
+    "popular": "Most Popular",
+    "startToday": "Start Today",
+    "plans": {
+      "basic": {
+        "name": "Basic",
+        "price": "250",
+        "period": "/month",
+        "duration": "Month",
+        "description": "Perfect for beginners starting their fitness journey",
+        "features": [
+          "Personalized training plan",
+          "Basic nutrition guidance",
+          "Weekly check-ins",
+          "WhatsApp support",
+          "Monthly adjustments"
+        ]
+      },
+      "premium": {
+        "name": "Premium",
+        "price": "400",
+        "period": "/month",
+        "duration": "Month",
+        "description": "Best for serious results and complete transformation",
+        "features": [
+          "Everything in Basic",
+          "Detailed nutrition plan",
+          "Daily check-ins",
+          "Supplement recommendations",
+          "Weekly adjustments",
+          "Training videos"
+        ]
+      },
+      "elite": {
+        "name": "Elite",
+        "price": "850",
+        "period": "/month",
+        "duration": "Month",
+        "description": "Premium coaching for maximum performance",
+        "features": [
+          "Everything in Premium",
+          "Private training sessions",
+          "Weekly meal plans",
+          "24/7 support",
+          "Body composition analysis",
+          "Priority response",
+          "Session discounts"
+        ]
+      }
+    }
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Frequently Asked",
+    "titleHighlight": "Questions",
+    "description": "Find answers to the most common questions about our training and nutrition programs",
+    "items": {
+      "q1": {
+        "question": "How long does it take to see results?",
+        "answer": "Most clients start seeing noticeable results within 4-6 weeks of consistent commitment. However, this varies based on starting point, goals, and adherence to training and nutrition programs."
+      },
+      "q2": {
+        "question": "Do I need special equipment?",
+        "answer": "While results can be optimized with gym equipment, we can create effective home workout programs with limited equipment. We customize each program based on what you have available."
+      },
+      "q3": {
+        "question": "What if I have dietary restrictions?",
+        "answer": "We design all nutrition plans according to your dietary preferences, sensitivities, and restrictions. Whether you're vegetarian, halal, or have specific sensitivities, we'll create a plan that works for you."
+      },
+      "q4": {
+        "question": "How often will I communicate with the coach?",
+        "answer": "This depends on your chosen plan. Basic includes weekly check-ins, Premium includes daily check-ins, and Elite includes 24/7 support via WhatsApp."
+      },
+      "q5": {
+        "question": "Can I switch plans later?",
+        "answer": "Absolutely! You can upgrade or downgrade at any time. We'll help you find the right plan for your current goals and needs."
+      },
+      "q6": {
+        "question": "What are the benefits of cupping sessions?",
+        "answer": "Cupping improves blood circulation, relieves muscle pain, helps with detoxification, and speeds up recovery. It's excellent for athletes and trainees."
+      }
+    }
+  },
+  "contact": {
+    "badge": "Get in Touch",
+    "title": "Start Your",
+    "titleHighlight": "Journey",
+    "description": "Ready to transform your body? Contact us today and let us help you achieve your goals",
+    "whatsapp": {
+      "title": "WhatsApp",
+      "description": "Message us directly"
+    },
+    "instagram": {
+      "title": "Instagram",
+      "description": "Follow our journey"
+    },
+    "email": {
+      "title": "Email",
+      "description": "Email us anytime"
+    },
+    "info": {
+      "title": "Contact Information",
+      "phone": "Phone",
+      "email": "Email",
+      "location": "Location",
+      "locationValue": "Egypt",
+      "hours": "Working Hours",
+      "hoursValue": "Saturday - Thursday: 6 AM - 11 PM"
+    },
+    "cta": {
+      "title": "Ready to Start?",
+      "description": "Join hundreds of happy clients who achieved their fitness goals with Classic Gym",
+      "button": "Start Your Transformation"
+    }
+  },
+  "footer": {
+    "name": "CLASSIC GYM",
+    "subName": "We Are Here For You",
+    "description": "Transform your body with personalized training, nutrition guidance, and continuous support from Classic Gym.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "support": "Support",
+    "backToTop": "Back to Top",
+    "rights": "All rights reserved - created by ASK-ABDALRHMAN +201066218473",
+    "contact": {
+      "phone": "Call Us",
+      "email": "Email Us",
+      "location": "Our Location"
+    },
+    "links": {
+      "home": "Home",
+      "about": "About Us",
+      "programs": "Programs",
+      "offers": "Offers",
+      "transformations": "Transformations",
+      "pricing": "Pricing",
+      "contact": "Contact Us",
+      "training": "Training Programs",
+      "nutrition": "Nutrition Consultations",
+      "cupping": "Cupping Sessions",
+      "massage": "Massage Therapy",
+      "recovery": "Recovery Sessions",
+      "faq": "FAQ",
+      "whatsapp": "WhatsApp Support"
+    },
+    "paymentMethods": {
+      "title": "Available Payment Methods",
+      "creditcard": "Credit Card",
+      "cash": "Cash Payment",
+      "mobilepayment": "Mobile Payment"
+    }
+  },
+  "programDetails": {
+    "whatsappButton": "Contact via WhatsApp",
+    "overview": "Overview",
+    "whatIncluded": "What's Included",
+    "whoFor": "Who Is This Program For",
+    "results": "Expected Results"
+  },
+  "pricingDetails": {
+    "whatsappButton": "Book via WhatsApp",
+    "included": "What's Included",
+    "notIncluded": "Not Included",
+    "getStarted": "Get Started"
+  }
+}

@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 0 0% 0%;
+    --foreground: 0 0% 98%;
+
+    --card: 0 0% 5%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 0 0% 5%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 48 100% 50%;
+    --primary-foreground: 0 0% 0%;
+    --primary-glow: 48 100% 60%;
+
+    --secondary: 0 0% 20%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 60%;
+
+    --accent: 48 100% 50%;
+    --accent-foreground: 0 0% 0%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 48 100% 50%;
+
+    --radius: 0.75rem;
+
+    /* Custom Classic Gym theme tokens */
+    --metallic: 0 0% 50%;
+    --glow-yellow: 48 100% 50%;
+    --gradient-hero: linear-gradient(135deg, hsl(48 100% 50% / 0.2), hsl(0 0% 0%));
+    --gradient-card: linear-gradient(145deg, hsl(0 0% 8%), hsl(0 0% 3%));
+    --shadow-glow: 0 0 40px hsl(48 100% 50% / 0.4);
+    --shadow-card: 0 10px 30px hsl(0 0% 0% / 0.5);
+    --transition-smooth: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0b0b0b; 
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #facc15, #ca8a04);
+  border-radius: 10px;
+  border: 2px solid #0b0b0b;
+ 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #fbbf24, #eab308);
+}
+
+::-webkit-scrollbar-corner {
+  background: #0b0b0b;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #facc15 #0b0b0b;
+}
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::selection {
+  background: rgb(255, 208, 0); 
+  color: #463900;
+}
+
+::-moz-selection {
+  background: rgb(255, 208, 0); 
+  color: #463900;
+}
+
